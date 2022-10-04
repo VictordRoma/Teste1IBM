@@ -1,6 +1,6 @@
 <?php
 $root = realpath($_SERVER["DOCUMENT_ROOT"]);
-require_once("$root/ProjWeb/model/cadastro.php");
+require_once("$root/LogicaIBM/model/cadastro.php");
 
 class ControllerCadastro{
 
